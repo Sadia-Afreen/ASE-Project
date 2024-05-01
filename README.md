@@ -1,8 +1,7 @@
 # ASE Project (Group 4)
 
 Authors:
-Sadia Afreen
-Shaznin Sultana
+Sadia Afreen, and Shaznin Sultana
 
 
 ## Introduction
